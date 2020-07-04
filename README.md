@@ -6,7 +6,7 @@ How the encryption works.
 
 ![alt text](https://github.com/M2etroline/ProjectBase/blob/master/Rotation_view_example.gif?raw=true)
 
-Image of letter "H". I appears as shifted because we are projecting a square image to a circle. 
+######Image of letter "H". I appears as shifted because we are projecting a square image to a circle. 
 
 ![alt text](https://github.com/M2etroline/ProjectBase/blob/master/Picture_view_example.png?raw=true)
 
@@ -47,4 +47,4 @@ Blue - Non informational data created during encryption.
 
 This project is not at all comparable to newer (and old) techniques of encryption. It is an educational experiment, a presentation of what encrypting data, and using a key means. But all in all, it was just a fun idea that we wanted to implement.
  
-###### This is an <h6> tag
+
