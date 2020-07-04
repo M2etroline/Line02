@@ -27,10 +27,6 @@ To do that we need to convert square image into an even, circular one.
 
 ![alt text](https://github.com/M2etroline/ProjectBase/blob/master/Spray.png?raw=true)
 
-Shifted image.
-
-![alt text](https://github.com/M2etroline/ProjectBase/blob/master/Shifted_Image.png?raw=true)
-
 # Density and holes
 
 In order for this programme to work, we need to find a location for our "eye". Once we find it we cast rays on which we place randomly points that represent pixels (or 'ones' in binary file). Because of that, if we were to place the "eye near the edge some rays would be much shorter than other, resulting in hightr density in that area. Ideally we would put the cone (our image in 3D space is seen as a cone) perpendicularly to the side of the box, this way there would be no unnecessary distortions. After we create the cone, we calculate based on density number of points we create around. An additional option is creating noise, simply adding some number of points to our space.
