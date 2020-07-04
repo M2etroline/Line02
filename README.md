@@ -47,4 +47,4 @@ Blue - Non informational data created during encryption.
 
 This project is not at all comparable to newer (and old) techniques of encryption. It is an educational experiment, a presentation of what encrypting data, and using a key means. But all in all, it was just a fun idea that we wanted to implement.
  
-
+**This text will be bold**
