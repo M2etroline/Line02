@@ -2,7 +2,7 @@
 
 In this project we fill a 3D space with points, so that from one particular angle, position and FOV the encrypted image is seen. Of course that is just the visual representation of what the programme is doing.
 
-###### How the encryption works.
+> How the encryption works.
 
 ![alt text](https://github.com/M2etroline/ProjectBase/blob/master/Rotation_view_example.gif?raw=true)
 
