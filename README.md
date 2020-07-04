@@ -6,4 +6,4 @@ From GUI the user can select options regarding encryption space, noise, and sele
 
 This project is not at all comparable to newer (and old) techniques of encryption. It is an educational experiment, a presentation of what encrypting data, and using a key means. But all in all, it was just a fun idea that we wanted to implement.
 
-![alt text](https://github.com/M2etroline/ProjectBase/blob/Master/image.jpg?raw=true)
+![alt text](https://github.com/M2etroline/ProjectBase/blob/aster/Picture_view_example.png?raw=true)
