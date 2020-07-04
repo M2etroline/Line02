@@ -18,7 +18,7 @@ Binary image.
 
 ![alt text](https://github.com/M2etroline/ProjectBase/blob/master/Image_coded.png?raw=true)
 
-Input image. Interpretation of the binary image.   Shifted image.
+Input image. Interpretation of the binary image.                                      Shifted image.
 
 ![alt text](https://github.com/M2etroline/ProjectBase/blob/master/Image.png?raw=true) ![alt text](https://github.com/M2etroline/ProjectBase/blob/master/Shifted_Image.png?raw=true)
 
