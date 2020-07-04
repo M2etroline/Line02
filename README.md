@@ -18,9 +18,9 @@ Binary image.
 
 ![alt text](https://github.com/M2etroline/ProjectBase/blob/master/Image_coded.png?raw=true)
 
-Input image. Interpretation of the binary image.
+Input image. Interpretation of the binary image.   Shifted image.
 
-![alt text](https://github.com/M2etroline/ProjectBase/blob/master/Image.png?raw=true)
+![alt text](https://github.com/M2etroline/ProjectBase/blob/master/Image.png?raw=true) ![alt text](https://github.com/M2etroline/ProjectBase/blob/master/Shifted_Image.png?raw=true)
 
 Image spray. Because of the way our programme works, we need to cast rays out of the point in the shape of the cone.
 To do that we need to convert square image into an even, circular one.
