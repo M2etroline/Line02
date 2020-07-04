@@ -14,19 +14,20 @@ Image of letter "H". I appears as shifted because we are projecting a square ima
 
 From GUI the user can select options regarding encryption space, noise, and selecting files to encrypt. It takes in binary image saved as '0' and '1'. It operates on very small images: 50x50 pix takes around a minute to decrypt.
 
-Binary image
+Binary image.
 
 ![alt text](https://github.com/M2etroline/ProjectBase/blob/master/Image_coded.png?raw=true)
 
-Input image
+Input image. Interpretation of the binary image.
 
 ![alt text](https://github.com/M2etroline/ProjectBase/blob/master/Image.png?raw=true)
 
-Image spray
+Image spray. Because of the way our programme works, we need to cast rays out of the point in the shape of the cone.
+To do that we need to convert square image into an even, circular one.
 
 ![alt text](https://github.com/M2etroline/ProjectBase/blob/master/Spray.png?raw=true)
 
-Shifted image
+Shifted image.
 
 ![alt text](https://github.com/M2etroline/ProjectBase/blob/master/Shifted_Image.png?raw=true)
 
