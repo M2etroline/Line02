@@ -6,7 +6,7 @@ How the encryption works.
 
 ![alt text](https://github.com/M2etroline/ProjectBase/blob/master/Rotation_view_example.gif?raw=true)
 
-######Image of letter "H". I appears as shifted because we are projecting a square image to a circle. 
+###### Image of letter "H". I appears as shifted because we are projecting a square image to a circle. 
 
 ![alt text](https://github.com/M2etroline/ProjectBase/blob/master/Picture_view_example.png?raw=true)
 
