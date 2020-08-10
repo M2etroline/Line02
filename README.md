@@ -50,7 +50,7 @@ When it comes to decrypting the file, after entering the key programme creates t
 
 ###### Here is the interpretation of what the programme sees during the decryption
 
-![czy tu jest napis](https://github.com/M2etroline/ProjectBase/blob/master/decryption_view.jpg?raw=true)
+![alt text](https://github.com/M2etroline/ProjectBase/blob/master/decryption_view.jpg?raw=true)
 
 # Summary
 
