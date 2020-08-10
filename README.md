@@ -44,6 +44,14 @@ After we create the cone, we calculate based on density number of points we crea
 
 ![alt text](https://github.com/M2etroline/ProjectBase/blob/master/Result.png?raw=true)
 
+# Decryption
+
+When it comes to decrypting the file, after entering the key programme creates the same rays as before and checks for collisions with our "dots". When it hits a point, a correct square on resulting image is painted black (or more percisely with a "1").
+
+###### Here is the interpretation of what the programme sees during the decryption
+
+![alt text](https://github.com/M2etroline/ProjectBase/blob/master/Image_coded.png?raw=true)
+
 # Summary
 
 This project is not at all comparable to newer (and old) techniques of encryption. It is an educational experiment, a presentation of what encrypting data, and using a key means. But all in all, it was just a fun idea that we wanted to implement.
