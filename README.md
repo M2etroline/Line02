@@ -46,7 +46,7 @@ After we create the cone, we calculate based on density number of points we crea
 
 # Decryption
 
-When it comes to decrypting the file, after entering the key programme creates the same rays as before and checks for collisions with our "dots". When it hits a point, a correct square on resulting image is painted black (or more percisely with a "1").
+When it comes to decrypting the file, after entering the key programme creates the same rays as before, and checks for collisions with our "dots". When it hits a point, a correct square on resulting image is painted black (or more percisely with a "1").
 
 ###### Here is the interpretation of what the programme sees during the decryption
 
